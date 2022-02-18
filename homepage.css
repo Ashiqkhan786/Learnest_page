@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+
+}
+
+.hero-banner{
+    background-image: url('https://res.cloudinary.com/jerrick/image/upload/f_jpg,fl_progressive,q_auto,w_1024/6108725ad9e5c6001f1338aa.jpg');
+    height:550px;
+   background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.online-text{
+    position: absolute;
+    left: 389px;
+    color: #ffff;
+    top: 165px;
+    font-size: 47px;
+}
+.courses-text{
+    position: absolute;
+    left: 430px;
+    color: #ffff;
+    top: 225px;
+    font-size: 47px;
+}
+.learn-text{
+    position: absolute;
+    left: 497px;
+    top: 308px;
+    font-size: 19px;
+    color: grey;
+}
+.btn-signup{
+    position: absolute;
+color: white;
+left: 480px;
+top: 370px;
+
+}
+.signup-text{
+    padding: 20px 200px 20px ;
+    text-align: center;
+
+}
+.self-peaced{
+    background-color: #d3d3d3;
+    border: 1px solid red;
+    height: 500px;
+}
+.lorem-text{
+margin-top: 70px;
+width: 500px;
+margin-left:60px;
+}
+.round-img{
+    width:200px;
+    height: 200px;
+}
+.hero-banner-2{
+    background-image: url('https://media.gettyimages.com/photos/workaholic-hand-typing-keyboard-in-dark-late-night-with-computer-picture-id1089976478?b=1&k=20&m=1089976478&s=170667a&w=0&h=x0zJfeMMCD7Pu9CSsbByaUfsLRz9xaFxRbMiE32x4_I=');
+  height:300px;
+    background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: relative;
+     top: 200px;
+   
+}
+.become{
+    top: 52px;
+    position: relative;
+}
+.cards-part{
+    position: relative;
+    top: 250px;
+}
+.card-img{
+    height: 200px;
+}
+.learnt-end{
+    top: 300px;
+    position: relative;
+}
+.course-btn,.institue-btn,.follow-btn{
+    background-color: rgba(255, 255, 255, 0.829);
+    color: grey;
+    border: none;
+    padding:5px;
+}
+.learnest-text{
+    color:grey;
+}
+.apps{
+color: black;
+}
+.footer-content{
+    top: 300px;
+    position: relative;
+    background-color: #d3d3d3;
+
+}
+.privacy,.terms,.return{
+
+padding-left: 50px;
+padding-top:50px;
+
+}
+.copy{
+  
+    top: 250px;
+    position: relative;
+    background-color: #d3d3d3;
+    padding-top: 25px;
+
+}
